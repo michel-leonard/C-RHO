@@ -1,6 +1,6 @@
 
 # Factor integers in C
-Basic C99 **factorization** software.
+Basic C99 **factorization** software. There is also a [Quadratic Sieve](https://github.com/michel-leonard/C-Quadratic-Sieve) for larger numbers.
 
 This ~100 lines C software :
 * uses a **Miller–Rabin** primality test
